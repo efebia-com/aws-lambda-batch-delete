@@ -1,0 +1,19 @@
+{
+  "name": "delete-all-aws-functions",
+  "version": "1.0.0",
+  "description": "Delete in batch all your AWS lambdas",
+  "main": "delete-all-aws-functions.js",
+  "keywords": [
+    "Delete",
+    "batch",
+    "aws",
+    "lambda",
+    "nodejs"
+  ],
+  "author": "Efebia",
+  "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "git@github.com:efebia-com/aws-lambda-batch-delete.git"
+  }
+}
